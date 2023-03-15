@@ -1,0 +1,22 @@
+<resources>
+    <string name="iam_sdk_name">iam-mvp-android-sdk</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_teset">TesetActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="iam_first_fragment_label">IAM First Fragment</string>
+    <string name="iam_second_fragment_label">IAM Second Fragment</string>
+    <string name="iam_next">IAM Next</string>
+    <string name="iam_previous">IAM Previous</string>
+
+    <string name="iam_hello_first_fragment">IAM Hello first fragment</string>
+    <string name="iam_hello_second_fragment">IAM Hello second fragment. Arg: %1$s</string>
+</resources>

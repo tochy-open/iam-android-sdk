@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.openrhapsody.iam_android_sdk">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Iammvpandroidsdk">
+
+        <activity
+            android:name=".IAMMainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Iammvpandroidsdk.NoActionBar" />
+
+    </application>
+
+</manifest>
